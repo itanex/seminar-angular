@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "seminar-angular", "seminar-angular\seminar-angular.csproj", "{AF62CCB1-1056-4C42-9DE3-C83A9A484E33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF62CCB1-1056-4C42-9DE3-C83A9A484E33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF62CCB1-1056-4C42-9DE3-C83A9A484E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF62CCB1-1056-4C42-9DE3-C83A9A484E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF62CCB1-1056-4C42-9DE3-C83A9A484E33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C25D036E-5C99-4935-9B3E-23790E9BFA77}
+	EndGlobalSection
+EndGlobal
